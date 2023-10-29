@@ -1,0 +1,8 @@
+@font-face{
+    font-family: AlexBrush-Regular;
+    src: url(/AlexBrush-Regular.woff2)
+}
+
+body{
+    background-image: url(/sample-1.webp);
+}
